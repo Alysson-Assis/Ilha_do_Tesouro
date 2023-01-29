@@ -1,0 +1,15 @@
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\bin\Debug\net7.0\IlhaDoTesouro.exe
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\bin\Debug\net7.0\IlhaDoTesouro.deps.json
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\bin\Debug\net7.0\IlhaDoTesouro.runtimeconfig.json
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\bin\Debug\net7.0\IlhaDoTesouro.dll
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\bin\Debug\net7.0\IlhaDoTesouro.pdb
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.csproj.AssemblyReference.cache
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.AssemblyInfoInputs.cache
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.AssemblyInfo.cs
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.csproj.CoreCompileInputs.cache
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.dll
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\refint\IlhaDoTesouro.dll
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.pdb
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\IlhaDoTesouro.genruntimeconfig.cache
+D:\Projetos\C# Completo POO + Projet\IlhaDoTesouro\IlhaDoTesouro\obj\Debug\net7.0\ref\IlhaDoTesouro.dll
